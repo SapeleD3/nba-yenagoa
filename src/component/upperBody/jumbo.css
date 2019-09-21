@@ -1,0 +1,16 @@
+.quote{
+    font-style: italic;
+    color: aqua;
+}
+
+.car {
+    background-image: linear-gradient(to right, rgb(70, 228, 78), white)
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
